@@ -1,0 +1,21 @@
+.greeting-text-1{
+    font-size: 20px;
+}
+
+.greeting-text-2 {
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+.registration-form {
+    margin: 30px 0;
+}
+
+.acceptance-form [type="submit"] {
+    float: right;
+    margin-bottom: 50px;
+}
+
+.acceptance-form h4 {
+    margin-top: 50px;
+}
